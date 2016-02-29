@@ -48,7 +48,7 @@ li {
 .homepage-header-image {
 	width: 100%;
 	height: 80vh;
-	background: url(images/fernbackground.jpg);
+	background: url(images/bikes.JPG);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -145,7 +145,7 @@ h3 {
 }
 
 .image-break {
-	background-image: url(images/imagebreak.jpg);
+	background-image: url(images/art.JPG);
 	width: 100%;
 	height: 200px;
 	background-position: center;
@@ -165,7 +165,7 @@ h3 {
 }
 
 .contact-section {
-	background-image: url(images/White_Brick_Wall-1024x675.jpg);
+	background-image: url(images/porcelin%20flowers.jpg);
 	width: 100%;
 	height: 300px;
 	background-position: center;
