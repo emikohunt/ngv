@@ -177,6 +177,10 @@ h3 {
 	text-align: justify;
 }
 
+.ksc-paragraph p {
+	text-align: justify;
+}
+
 .ksc-paragraph {
 	padding: 20px 0;
 	text-align: left;
@@ -217,9 +221,6 @@ footer {
 	height: 130px;
 }
 
-p {
-	text-align: justify;
-}
 
 /*END OF EMIKO CSS */
 
