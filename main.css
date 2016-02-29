@@ -88,6 +88,24 @@ h2 {
 	margin: 10px 5%; 
 }
 
+h4 {
+	font-family: "Quicksand", sans-serif;
+	font-weight: 700;
+	font-size: 1em;
+	color: #4e5564;
+	text-align: left;
+	margin: 10px 5%; 
+}
+
+.ksc-paragraph p {
+	font-family: "Quicksand", sans-serif;
+	font-weight: 350;
+	font-size: 1em;
+	color: #4e5564;
+	text-align: left;
+	margin: 10px 5%; 
+}
+
 .about-me-photo {
 	float:left;
 	margin: 20px 20px;
@@ -97,7 +115,7 @@ h2 {
 
 .about-me {
 	font-family: "Quicksand", sans-serif;
-	font-weight: 300;
+	font-weight: 350;
 	font-size: 1em;
 	color: #4e5564;
 	text-align: justify;
@@ -123,7 +141,7 @@ h3 {
 
 .resume-paragraph {
 	font-family: "Quicksand", sans-serif;
-	font-weight: 300;
+	font-weight: 350;
 	font-size: 1em;
 	color: #4e5564;
 	text-align: left;
@@ -134,7 +152,7 @@ h3 {
 	list-style: circle;
 	display: block;
 	font-family: "Quicksand", sans-serif;
-	font-weight: 300;
+	font-weight: 350;
 	font-size: 1em;
 	text-align: left;
 }
